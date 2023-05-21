@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taaha3244
-- 👀 I’m interested in html css javascript and react
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in Machine learning ,Deep Learning and AI
+- 🌱 I’m currently a student
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :+92-3201614214
 
