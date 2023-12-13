@@ -1,4 +1,4 @@
-# Hello, I'm Taaha Mushtaq (https://www.linkedin.com/in/muhammad-taaha-505944274/)! 👋
+# Hello, I'm Taaha Mushta 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/muhammad-taaha-505944274/)
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitterusername?style=social)](https://twitter.com/Dev_taaa)
