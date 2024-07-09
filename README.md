@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **AI and Data Science**
 
-- 📫 How to reach me **taaha.com@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
