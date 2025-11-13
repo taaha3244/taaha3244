@@ -1,26 +1,87 @@
-<h1 align="center">Hi 👋, I'm Taaha Mushtaq</h1>
-<h3 align="center">A passionate Machine Learning Engineer From Pakistan</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Taaha+Mushtaq;Applied+AI+Engineer;Machine+Learning+Specialist" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taaha3244&label=Profile%20views&color=0e75b6&style=flat" alt="taaha3244" /> </p>
+<h3 align="center">Applied AI Engineer | 2 Years Experience | Pakistan</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_taaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev_taaa?logo=twitter&style=for-the-badge" alt="dev_taaa" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/dev_taaa" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/dev_taaa?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=taaha3244&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on **Supervised Machine Learning**
+---
 
-- 🌱 I’m currently learning **Pytorch**
+### About Me
 
-- 👯 I’m looking to collaborate on **ML Projects**
+Applied AI Engineer with 2 years of professional experience building and deploying machine learning solutions. Specialized in supervised learning, deep learning frameworks, and end-to-end ML pipeline development. Passionate about transforming complex data problems into scalable AI applications.
 
-- 💬 Ask me about **AI and Data Science**
+**Current Focus**
+- Developing production-ready supervised learning models
+- Advanced PyTorch implementations and neural network architectures
+- ML model optimization and deployment strategies
 
+**Open to Collaboration**
+- Machine learning research projects
+- Open-source AI tools and frameworks
+- Applied AI solutions for real-world problems
 
+**Areas of Expertise**
+- Machine Learning & Deep Learning
+- Data Science & Analytics
+- Model Training & Deployment
+- MLOps & Production Systems
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taaha3244&show_icons=true&locale=en&layout=compact" alt="taaha3244" /></p>
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taaha3244&show_icons=true&locale=en" alt="taaha3244" /></p>
+#### Data Science Stack
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taaha3244&" alt="taaha3244" /></p>
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Professional Experience
+
+**Applied AI Engineer** | 2 Years
+- Designed and deployed supervised learning models for production environments
+- Implemented deep learning solutions using PyTorch
+- Built end-to-end ML pipelines from data processing to model deployment
+- Collaborated with cross-functional teams to deliver AI-driven products
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taaha3244&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taaha3244&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taaha3244&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
+
+---
+
+### Current Projects
+```python
